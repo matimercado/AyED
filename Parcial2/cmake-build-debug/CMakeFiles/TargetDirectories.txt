@@ -1,0 +1,3 @@
+/home/matimercado/git/AyED_P2/Parcial2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matimercado/git/AyED_P2/Parcial2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matimercado/git/AyED_P2/Parcial2/cmake-build-debug/CMakeFiles/Parcial2.dir

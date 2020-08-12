@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matimercado/git/AyED/Parcial1/Archivo.cpp
+cstring
+-
+Archivo.h
+/home/matimercado/git/AyED/Parcial1/Archivo.h
+
+/home/matimercado/git/AyED/Parcial1/Archivo.h
+fstream
+-
+Pila.h
+/home/matimercado/git/AyED/Parcial1/Pila.h
+
+/home/matimercado/git/AyED/Parcial1/Lista.h
+>>>>>>> mati
+iostream
+-
+Nodo.h
+/home/jfernandez/Documentos/Git/AyED/Parcial1/Nodo.h
+-
+/home/jfernandez/Documentos/Git/AyED/Parcial1/Nodo.h
+sstream
+/home/jfernandez/Documentos/Git/AyED/Parcial1/sstream
+-
+/home/jfernandez/Documentos/Git/AyED/Parcial1/Pila.h
+Lista.h
+/home/jfernandez/Documentos/Git/AyED/Parcial1/Lista.h
+-
+<<<<<<< HEAD
+<<<<<<< HEAD
+/home/jfernandez/Documentos/Git/AyED/Parcial1/main.cpp
+=======
+=======
+/home/matimercado/git/AyED/Parcial1/TokenHtml.h
+iostream
+-
+string
+-
+fstream
+-
+Archivo.h
+/home/matimercado/git/AyED/Parcial1/Archivo.h
+
+/home/matimercado/git/AyED/Parcial1/Pila.h
+Lista.h
+/home/matimercado/git/AyED/Parcial1/Lista.h
+
+/home/matimercado/git/AyED/Parcial1/TokenHtml.cpp
+TokenHtml.h
+/home/matimercado/git/AyED/Parcial1/TokenHtml.h
+
+/home/matimercado/git/AyED/Parcial1/TokenHtml.h
+Archivo.h
+/home/matimercado/git/AyED/Parcial1/Archivo.h
+
+/home/matimercado/git/AyED/Parcial1/main.cpp
+iostream
+-
+Pila.h
+/home/matimercado/git/AyED/Parcial1/Pila.h
+Archivo.h
+/home/matimercado/git/AyED/Parcial1/Archivo.h
+TokenHtml.h
+/home/matimercado/git/AyED/Parcial1/TokenHtml.h
+

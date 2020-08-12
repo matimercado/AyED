@@ -1,0 +1,16 @@
+
+1 Reloj_1 aleatorio 5
+2 Reloj_2 periodico 3
+3 Reloj_3 aleatorio 5
+4 Reloj_4 periodico 7
+5 Reloj_5 periodico 5
+6 Reloj_6 aleatorio 3
+7 Reloj_7 aleatorio 12
+8 Reloj_8 periodico 10
+9 Reloj_9 aleatorio 8
+10 Reloj_10 periodico 5
+11 Reloj_11 aleatorio 9
+12 Reloj_12 aleatorio 4
+13 Reloj_13 periodico 4
+14 Reloj_14 aleatorio 8
+15 Reloj_15 periodico 7

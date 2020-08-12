@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Parcial1.dir/main.cpp.o CMakeFiles/Parcial1.dir/TokenHtml.cpp.o CMakeFiles/Parcial1.dir/Archivo.cpp.o  -o Parcial1 
